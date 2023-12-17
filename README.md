@@ -1,2 +1,5 @@
 # xor-onetimepad-enc
-xor-onetimepad machine that encrypt input(plaintext) from keyboard and put to ram stack
+Xor-onetimepad machine that encrypt input(plaintext) from keyboard and put to Ram stack
+circuit designed by logisim HDL graphical simulator
+
+
