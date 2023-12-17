@@ -3,7 +3,7 @@ Xor-onetimepad machine that encrypt input(plaintext) from keyboard and put to Ra
 
 Circuit designed by logisim HDL graphical simulator
 
-This machine contains two 256*8 ram one for fetching characters from keybaord(input buffer) and another for saving cipher(encrypted message)
+This machine contains two 256*8 ram one for fetching characters from keyboard(input buffer) and another for saving cipher(encrypted message)
 
 The keystream that contain array of 0,1 generated randomly with orbitary seed(random number genrator initilizer)
 
